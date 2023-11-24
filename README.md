@@ -19,4 +19,5 @@ For the process we have to have next libraries installesd on our local machin or
 4. pip install sqlalchemy
 5. pip install Nominatim
 Nominatim API be prepared to run on along time on the part, user_agent we can write any like it can be our names for example "Tsovinar"
+
 Thats all the process for the ETL warhouse data engineering project.
